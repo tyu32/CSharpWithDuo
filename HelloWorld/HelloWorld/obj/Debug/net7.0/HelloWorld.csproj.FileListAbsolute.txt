@@ -1,0 +1,15 @@
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
