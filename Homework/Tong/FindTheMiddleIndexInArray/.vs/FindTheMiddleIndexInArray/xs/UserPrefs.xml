@@ -1,11 +1,17 @@
 ﻿<Properties StartupConfiguration="{EDC02E78-39B5-4990-B70E-A67F0E058407}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="FindTheMiddleIndexInArray/Program.cs">
     <Files>
-      <File FileName="FindTheMiddleIndexInArray/Program.cs" Line="24" Column="1" />
+      <File FileName="FindTheMiddleIndexInArray/Program.cs" Line="41" Column="2" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__" />
+        <State name="__root__">
+          <Node name="FindTheMiddleIndexInArray" expanded="True">
+            <Node name="FindTheMiddleIndexInArray">
+              <Node name="Dependencies" selected="True" />
+            </Node>
+          </Node>
+        </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
