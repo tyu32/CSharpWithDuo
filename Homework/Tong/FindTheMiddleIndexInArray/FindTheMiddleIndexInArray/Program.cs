@@ -31,7 +31,7 @@ namespace FindTheMiddleIndexInArray
 
         static void Main(string[] args)
         {
-            int[] nums = new int[] {2, 3, -1, 8, 4};
+            int[] nums = new int[] { 2, 3, -1, 8, 4 };
 
             int result = FindMiddleIndex(nums);
 

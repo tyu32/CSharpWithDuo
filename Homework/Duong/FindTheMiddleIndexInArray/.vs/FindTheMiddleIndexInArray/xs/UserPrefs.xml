@@ -1,4 +1,19 @@
 ﻿<Properties StartupConfiguration="{EDC02E78-39B5-4990-B70E-A67F0E058407}|Default">
-  <MonoDevelop.Ide.ItemProperties.FindTheMiddleIndexInArray FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FindTheMiddleIndexInArray/Program.cs">
+    <Files>
+      <File FileName="FindTheMiddleIndexInArray/Program.cs" Line="24" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.FindTheMiddleIndexInArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
