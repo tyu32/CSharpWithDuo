@@ -1,0 +1,15 @@
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/bin/Debug/net7.0/LeftRightDifference
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/bin/Debug/net7.0/LeftRightDifference.deps.json
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/bin/Debug/net7.0/LeftRightDifference.runtimeconfig.json
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/bin/Debug/net7.0/LeftRightDifference.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/bin/Debug/net7.0/LeftRightDifference.pdb
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.csproj.AssemblyReference.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.AssemblyInfoInputs.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.AssemblyInfo.cs
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.csproj.CoreCompileInputs.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/refint/LeftRightDifference.dll
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.pdb
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/LeftRightDifference.genruntimeconfig.cache
+/Users/tongyu/Documents/GitHub/CSharpWithDuo/Homework/Duong/LeftRightDifference/LeftRightDifference/LeftRightDifference/obj/Debug/net7.0/ref/LeftRightDifference.dll
